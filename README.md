@@ -13,7 +13,7 @@
 🔥 Solved 500+ DSA problems
 ⚡ Focused on performance, clean code & impactful solutions
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
