@@ -77,7 +77,8 @@ Prompt Engineering
 
 📊 GitHub Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=PrincePatel&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=PRINCEPATEL02&show_icons=true&theme=tokyonight&count_private=true)
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel&layout=compact&theme=tokyonight&hide_border=true)
 
