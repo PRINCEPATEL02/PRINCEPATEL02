@@ -80,8 +80,13 @@ Prompt Engineering
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=PRINCEPATEL02&show_icons=true&theme=tokyonight&count_private=true)
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=PRINCEPATEL02&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PRINCEPATEL02&theme=tokyonight&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=PRINCEPATEL02&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCEPATEL02&layout=compact&theme=tokyonight)
 
 
 
