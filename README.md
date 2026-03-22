@@ -15,8 +15,46 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,bootstrap,react,angular,nodejs,express,mysql,mongodb,postgresql,sqlite,aws,azure,gcp,firebase,docker,git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,php" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular,nextjs,nuxtjs,jquery" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,graphql" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase,supabase" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,cloudflare,heroku,vercel,netlify" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions,vscode,idea,webstorm,postman,figma,linux,ubuntu" />
+</p>
+
+### 🤖 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
+</p>
+
+### 🔐 Auth & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt,redux,selenium,unity,unreal" />
 </p>
 
 🤖 AI & Skills
