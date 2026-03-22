@@ -39,25 +39,25 @@
 
 🗄️ Databases
 
-![MongoDB] (https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL] (https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![phpMyAdmin] (https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=php&logoColor=white)
 
 
 ☁️ Cloud & Platforms
 
-![Firebase] (https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Google Analytics] (https://img.shields.io/badge/GoogleAnalytics-E37400?logo=googleanalytics&logoColor=white)
-![Colab] (https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400?logo=googleanalytics&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black)
 
 
 
 ⚙️ Tools & DevOps
 
-![Git] (https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub] (https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker] (https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman] (https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 
 
@@ -90,13 +90,13 @@ Prompt Engineering
 
 🔥 Streak Stats
 
-![Streak] (https://streak-stats.demolab.com?user=PrincePatel&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=PrincePatel&theme=tokyonight&hide_border=true)
 
 
 
 🐍 Contribution Snake
 
-![Snake animation] (https://github.com/PrincePatel/PrincePatel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PrincePatel/PrincePatel/blob/output/github-contribution-grid-snake.svg)
 
 
 🏆 Achievements
