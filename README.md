@@ -13,35 +13,11 @@
 🔥 Solved 500+ DSA problems
 ⚡ Focused on performance, clean code & impactful solutions
 
+## 🛠️ Tech Stack
 
-
-🛠️ Tech Stack
-💻 Tech Stack
-
-Programming Languages:
-Python, Java, JavaScript, C
-
-Frontend Development:
-HTML5, CSS3, Bootstrap, React, Angular.js, jQuery
-
-Backend Development:
-Node.js, Express.js, FastAPI
-
-Databases:
-MySQL, MongoDB, PostgreSQL, SQLite
-
-Cloud & DevOps:
-AWS, Azure, Google Cloud, Firebase, Docker
-
-Machine Learning & Data Science:
-TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas, Matplotlib, Plotly, MLflow, OpenCV
-
-Tools & Version Control:
-Git, GitHub
-
-Other Technologies:
-JWT Authentication, REST APIs, Streamlit
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,bootstrap,react,angular,nodejs,express,mysql,mongodb,postgresql,sqlite,aws,azure,gcp,firebase,docker,git,github,jenkins" />
+</p>
 
 🤖 AI & Skills
 
